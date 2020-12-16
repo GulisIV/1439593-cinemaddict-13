@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Check status][check-image]][check-url]
 
 * Студент: [Илья Гулис](https://up.htmlacademy.ru/ecmascript/13/user/1439593).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Лавринюк](https://htmlacademy.ru/profile/id1666565).
 
 ---
 
